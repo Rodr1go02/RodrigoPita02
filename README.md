@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante de Engenharia Informática c
 
 ## Projetos
 
-### [Sistema de Gestão de Custos](link-do-seu-projeto)
+### [Sistema de Gestão de Custos](https://github.com/RodrigoPita02/Cost-Management-System.git)
 Um sistema de gestão de custos que permite o acompanhamento detalhado de despesas variáveis e fixas.
 
 ## Conecte-se Comigo!
